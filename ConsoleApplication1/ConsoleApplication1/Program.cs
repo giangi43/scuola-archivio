@@ -52,7 +52,7 @@ namespace ConsoleApplication1
             index = help.joblist(archivio);
             Console.WriteLine("=D");
 
-           
+            Console.WriteLine("write \"help\" for info");
             a.ReadCommand();
 
         }
