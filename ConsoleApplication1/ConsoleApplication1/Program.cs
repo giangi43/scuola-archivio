@@ -38,13 +38,13 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Program a= new Program();
-            a.fanculo(a);
+            a.farfalla(a);
              
         }
 
         
         // void for be able to use the variable "archivio", "index", "help" outside from the main .... really ugly 
-        void fanculo(Program a)
+        void farfalla(Program a)
         {
             
              help = new testprg();
